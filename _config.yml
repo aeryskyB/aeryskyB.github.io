@@ -1,3 +1,9 @@
 title: weird corner
-theme: jekyll-theme-minima
-# description: 
+url: "https://aeryskyB.github.io"
+baseurl: "/"
+
+theme: minima
+minima:
+  social_links:
+    twitter: Aery___1
+    github: aeryskyB
