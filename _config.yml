@@ -1,9 +1,11 @@
 title: weird corner
+footer: ""
+author: ""
 url: "https://aeryskyB.github.io"
 baseurl: "/"
 
 theme: minima
 minima:
   social_links:
-    twitter: Aery___1
-    github: aeryskyB
+    twitter: https://twitter.com/Aery___1
+    github: https://github.com/aeryskyB
