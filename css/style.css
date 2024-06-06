@@ -1,0 +1,26 @@
+* {
+    font-family: monospace;
+    color: #aaaaaa;
+    background-color: #283030;
+    text-align: center;
+    justify-content: center;
+}
+
+body {
+    font-size: 16px;
+}
+
+hr {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+strong {
+    color: #dddddd;
+}
+
+#fast {
+    display: inline-block;
+    text-align: left;
+    max-width: 40%;
+}
